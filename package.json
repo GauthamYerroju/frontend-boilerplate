@@ -1,0 +1,21 @@
+{
+  "name": "frontend-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate project for my preferred frontend workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testrepo"
+  },
+  "keywords": [
+    "boilerplate",
+    "nodejs",
+    "gulp",
+    "frontend"
+  ],
+  "author": "Gautham Yerroju",
+  "license": "MIT"
+}
